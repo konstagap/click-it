@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Sonya",
+    "image": "http://mortalkombatwarehouse.com/mk3/sonya/versus.png"
+  },
+  {
+    "id": 2,
+    "name": "Cyrax",
+    "image": "http://mortalkombatwarehouse.com/mk3/cyrax/versus2.png"
+  },
+  {
+    "id": 3,
+    "name": "Kitana",
+    "image": "http://mortalkombatwarehouse.com/umk3/kitana/versus.png"
+  },
+  {
+    "id": 4,
+    "name": "shangtsung",
+    "image": "http://mortalkombatwarehouse.com/mk3/shangtsung/versus.png"
+  },
+  {
+    "id": 5,
+    "name": "subzero",
+    "image": "http://mortalkombatwarehouse.com/umk3/subzero/versus.png"
+  },
+  {
+    "id": 6,
+    "name": "scorpion",
+    "image": "http://mortalkombatwarehouse.com/umk3/scorpion/versus.png"
+  },
+  {
+    "id": 7,
+    "name": "Jax",
+    "image": "http://mortalkombatwarehouse.com/mk3/jax/versus.png"
+  },
+  {
+    "id": 8,
+    "name": "Sindel",
+    "image": "http://mortalkombatwarehouse.com/mk3/sindel/versus.png"
+  },
+  {
+    "id": 9,
+    "name": "Kano",
+    "image": "http://mortalkombatwarehouse.com/mk3/kano/versus.png"
+  },
+  {
+    "id": 10,
+    "name": "kunglao",
+    "image": "http://mortalkombatwarehouse.com/mk3/kunglao/versus.png"
+  },
+  {
+    "id": 11,
+    "name": "nightwolf",
+    "image": "http://mortalkombatwarehouse.com/mk3/nightwolf/versus.png"
+  },
+  {
+    "id": 12,
+    "name": "Kabal",
+    "image": "http://mortalkombatwarehouse.com/mk3/kabal/versus.png"
+  }
+]

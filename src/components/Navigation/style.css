@@ -1,0 +1,10 @@
+.navstyle{
+  font-size: 25px;
+  background-color: rgba(182, 179, 179, 0.637);
+}
+.winStyle{
+  color: green;
+}
+.lostStyle{
+  color: rgb(255, 0, 0);
+}
